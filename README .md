@@ -28,12 +28,21 @@ The report includes customer counts, total and average income, total and average
 3. If prompted, reconnect the report to the required source dataset files.
 4. Use the filters to explore the report.
 
+
 ## Dashboard Preview
 
-![Demography](screenshots/02_demography.png)
-![Income Analysis](screenshots/03_income_analysis.png)
-![Expenditure Analysis](screenshots/04_expenditure_analysis.png)
-![Income Utilization](screenshots/05_income_utilization.png)
+### Demography
+![Demography Dashboard](02-demography.png.png)
+
+### Income Analysis
+![Income Analysis Dashboard](03-income-analysis.png.png)
+
+### Expenditure Analysis
+![Expenditure Analysis Dashboard](04-expenditure-analysis.png.png)
+
+### Income Utilization
+![-05 Income Utilization Dashboard](-05-income-utilization.png.png)
+
 
 ## Author
 **Akshata Basanagoud Biradar**  
