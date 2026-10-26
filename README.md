@@ -31,10 +31,6 @@ The report includes customer counts, total and average income, total and average
 
 ## Dashboard Preview
 
-
-## Dashboard Preview
-
-
 ### Home
 ![Mitron Bank Home Dashboard](01-home.png.)
 
