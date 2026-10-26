@@ -31,6 +31,12 @@ The report includes customer counts, total and average income, total and average
 
 ## Dashboard Preview
 
+
+## Dashboard Preview
+
+### Home
+![Mitron Bank Home Dashboard](01-home.png)
+
 ### Demography
 ![Demography Dashboard](02-demography.png.png)
 
@@ -39,7 +45,6 @@ The report includes customer counts, total and average income, total and average
 
 ### Expenditure Analysis
 ![Expenditure Analysis Dashboard](04-expenditure-analysis.png.png)
-
 
 ### Income Utilization
 ![-05 Income Utilization Dashboard](-05-income-utilization.png.png)
