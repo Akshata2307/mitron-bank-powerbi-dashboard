@@ -47,10 +47,8 @@ The report includes customer counts, total and average income, total and average
 ### Expenditure Analysis
 ![Expenditure Analysis Dashboard](04-expenditure-analysis.png.png)
 
-
 ### Income Utilization
-![-05 Income Utilization Dashboard](-05-income-utilization.png.png)
-
+![Income Utilization Dashboard](05-income-utilization.png.png)
 
 ## Author
 **Akshata Basanagoud Biradar**  
